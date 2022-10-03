@@ -84,7 +84,7 @@ export const AboutUsComponent = (props: Props) => {
                         />
                         <BlockProfile
                             name={'ณัฏฐพงษ์ ฐานะวัน'}
-                            job={'Back-end Developer'}
+                            job={'Back-end Developer & Designer'}
                             pic={'dewProfile'}
                             nameColor={'#23a6d5'}
                             linkin={''}
@@ -93,7 +93,7 @@ export const AboutUsComponent = (props: Props) => {
                         />
                         <BlockProfile
                             name={'ศุภชัย ยะราไสย์'}
-                            job={'Back-end Developer'}
+                            job={'Back-end Developer & Designer'}
                             pic={'ohmProfile'}
                             nameColor={'#ee7752'}
                             github={'https://github.com/ohmmyaeng'}
@@ -101,7 +101,7 @@ export const AboutUsComponent = (props: Props) => {
                         />
                         <BlockProfile
                             name={'จักรพรรดิ์ บุญวิรัตน์'}
-                            job={'Designer'}
+                            job={'Front-end & Designer'}
                             pic={'bosProfile'}
                             nameColor={'#cc7a22'}
                             github={'https://github.com/jakkapatB'}
@@ -119,7 +119,7 @@ export const AboutUsComponent = (props: Props) => {
                     <SimpleGrid columns={{ base: 1, md: 3 }} spacing={{ base: 2, md: 10 }} >
                         <BlockProfile
                             name={'ชานน วิริยธนชิต'}
-                            job={'รายงานบทที่ 2'}
+                            job={'รายงานบทที่ 2 & Web Developer'}
                             pic={'nonProfile'}
                             nameColor={'#C56E90'}
                             github={'https://github.com/ChanomKhaimuk'}
@@ -127,7 +127,7 @@ export const AboutUsComponent = (props: Props) => {
                         />
                         <BlockProfile
                             name={'ณัฐวุฒิ แจ้งอรุณ'}
-                            job={'รายงานบทที่ 1, 4'}
+                            job={'รายงานบทที่ 1, 4 & Web Developer'}
                             pic={'nutProfile'}
                             nameColor={'#957DAD'}
                             github={'https://github.com/vextion01'}
@@ -135,7 +135,7 @@ export const AboutUsComponent = (props: Props) => {
                         />
                         <BlockProfile
                             name={'ติณณภพ มารวิชัย'}
-                            job={'รายงานบทที่ 1, 4'}
+                            job={'รายงานบทที่ 1, 4 & Web Developer'}
                             pic={'poProfile'}
                             nameColor={'#DEB3DF'}
                             github={'https://github.com/yeahyouknowmeimmafuckingtdxii'}
@@ -143,13 +143,13 @@ export const AboutUsComponent = (props: Props) => {
                         />
                         <BlockProfile
                             name={'ปริญญา ชาบุญเรือง'}
-                            job={'รายงานบทที่ 3'}
+                            job={'รายงานบทที่ 3 & Web Developer'}
                             pic={'joProfile'}
                             nameColor={'#C56E90'}
                         />
                         <BlockProfile
                             name={'ทฤษฏี จิรลักษณวงศ์'}
-                            job={'รายงานบทที่ 3'}
+                            job={'รายงานบทที่ 3 & Web Developer'}
                             pic={'baseProfile'}
                             nameColor={'#A4DEAD'}
                             github={'https://github.com/tissadee'}
